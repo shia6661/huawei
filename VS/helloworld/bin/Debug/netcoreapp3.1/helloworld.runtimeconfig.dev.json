@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\shia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\shia\\.nuget\\packages"
+    ]
+  }
+}
